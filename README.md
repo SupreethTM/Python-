@@ -1,4 +1,7 @@
 # Python-
+
+# Battery status
+
 battery = int(input('Battery status'))
 
 if battery <=10:
